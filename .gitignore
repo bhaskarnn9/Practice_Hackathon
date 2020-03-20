@@ -1,0 +1,6 @@
+.vscode/
+.DS_Store/
+.DS_Store
+.git/
+.ipynb_checkpoints/
+.pytest_cache/
